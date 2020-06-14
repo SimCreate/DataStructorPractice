@@ -1,0 +1,7 @@
+C:\Users\wdg10\Documents\GitSource\DataStructorPractice\Array\DataStructor_Array\DataStructor_Array\bin\Debug\DataStructor_Array.exe.config
+C:\Users\wdg10\Documents\GitSource\DataStructorPractice\Array\DataStructor_Array\DataStructor_Array\bin\Debug\DataStructor_Array.exe
+C:\Users\wdg10\Documents\GitSource\DataStructorPractice\Array\DataStructor_Array\DataStructor_Array\bin\Debug\DataStructor_Array.pdb
+C:\Users\wdg10\Documents\GitSource\DataStructorPractice\Array\DataStructor_Array\DataStructor_Array\obj\Debug\DataStructor_Array.csprojAssemblyReference.cache
+C:\Users\wdg10\Documents\GitSource\DataStructorPractice\Array\DataStructor_Array\DataStructor_Array\obj\Debug\DataStructor_Array.csproj.CoreCompileInputs.cache
+C:\Users\wdg10\Documents\GitSource\DataStructorPractice\Array\DataStructor_Array\DataStructor_Array\obj\Debug\DataStructor_Array.exe
+C:\Users\wdg10\Documents\GitSource\DataStructorPractice\Array\DataStructor_Array\DataStructor_Array\obj\Debug\DataStructor_Array.pdb
