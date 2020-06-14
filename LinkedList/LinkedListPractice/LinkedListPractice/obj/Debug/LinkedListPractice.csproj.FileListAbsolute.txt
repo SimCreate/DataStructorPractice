@@ -1,0 +1,7 @@
+C:\Users\wdg10\Documents\GitSource\DataStructorPractice\LinkedList\LinkedListPractice\LinkedListPractice\bin\Debug\LinkedListPractice.exe.config
+C:\Users\wdg10\Documents\GitSource\DataStructorPractice\LinkedList\LinkedListPractice\LinkedListPractice\bin\Debug\LinkedListPractice.exe
+C:\Users\wdg10\Documents\GitSource\DataStructorPractice\LinkedList\LinkedListPractice\LinkedListPractice\bin\Debug\LinkedListPractice.pdb
+C:\Users\wdg10\Documents\GitSource\DataStructorPractice\LinkedList\LinkedListPractice\LinkedListPractice\obj\Debug\LinkedListPractice.csprojAssemblyReference.cache
+C:\Users\wdg10\Documents\GitSource\DataStructorPractice\LinkedList\LinkedListPractice\LinkedListPractice\obj\Debug\LinkedListPractice.csproj.CoreCompileInputs.cache
+C:\Users\wdg10\Documents\GitSource\DataStructorPractice\LinkedList\LinkedListPractice\LinkedListPractice\obj\Debug\LinkedListPractice.exe
+C:\Users\wdg10\Documents\GitSource\DataStructorPractice\LinkedList\LinkedListPractice\LinkedListPractice\obj\Debug\LinkedListPractice.pdb
