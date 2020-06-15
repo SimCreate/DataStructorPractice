@@ -14,6 +14,8 @@ namespace LinkedListPractice
     {
         static void Main(string[] args)
         {
+            /*
+
             SingleLinkedList<int> singleStringList = new SingleLinkedList<int>();
 
             for (int i = 0; i < 15; i++ )
@@ -26,6 +28,10 @@ namespace LinkedListPractice
             SingleLinkedListNode<int> lastNode = singleStringList.GetNode(15);
 
             singleStringList.AddAfter(lastNode, newNode);
+
+            */
+
+
 
             Console.ReadKey();
         }
